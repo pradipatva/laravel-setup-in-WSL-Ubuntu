@@ -1,6 +1,4 @@
 
-# Laravel Project Setup Guide in WSL (Ubuntu) with (Apache + MySQL + phpMyAdmin + Redis)
-
 [![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
@@ -8,9 +6,10 @@
 
 Thanks for visiting my GitHub account!
 
+# Laravel Project Setup Guide in WSL (Ubuntu) with (Apache + MySQL + phpMyAdmin + Redis)
+
 > A complete step-by-step setup of the ALTERC Laravel project on **WSL (Ubuntu)** using Apache, MySQL, phpMyAdmin, and optional Redis. It is structured for practical future reference.
 
----
 
 ## Table of Contents
 
